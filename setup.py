@@ -4,7 +4,7 @@
 NAME = "ZenPacks.community.Memcached_Template"
 VERSION = "1.0"
 AUTHOR = "Fredrik Wollsen"
-LICENSE = "LGPL"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Memcached_Template']
 INSTALL_REQUIRES = ['ZenPacks.community.Memcached>=1.0']
